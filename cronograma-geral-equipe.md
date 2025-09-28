@@ -234,7 +234,7 @@
 ### **Daily Check-ins (15 min/dia)**
 - **Horário**: 9h00 e 17h00
 - **Formato**: O que fiz / O que vou fazer / Bloqueios
-- **Tool**: Discord/Slack
+- **Tool**: WhatsApp
 
 ### **Mid-day Reviews (30 min)**
 - **Horário**: 14h00
