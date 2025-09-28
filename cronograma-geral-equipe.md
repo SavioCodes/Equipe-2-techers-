@@ -12,8 +12,7 @@
 ## 🚀 **FASE 1: SETUP E PLANEJAMENTO (Dias 1-2)**
 
 ### **Dia 1 - Sexta-feira**
-#### **Manhã (9h-12h): Kick-off e Alinhamento**
-- **9h00**: Reunião geral da equipe (1h)
+#### **Manhã (9h-12h): Alinhamento**
   - Apresentação do desafio em detalhes
   - Alinhamento de expectativas e objetivos
   - Definição de responsabilidades finais
