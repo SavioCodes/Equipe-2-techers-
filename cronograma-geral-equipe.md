@@ -11,7 +11,7 @@
 
 ## 🚀 **FASE 1: SETUP E PLANEJAMENTO (Dias 1-2)**
 
-### **Dia 1 - Sexta-feira**
+### **Dia 1 - Segunda-feira**
 #### **Manhã (9h-12h): Alinhamento**
   - Apresentação do desafio em detalhes
   - Alinhamento de expectativas e objetivos
@@ -50,7 +50,7 @@
   - Ajustes no plano para Dia 2
   - Identificação de primeiros bloqueios
 
-### **Dia 2 - Sábado**
+### **Dia 2 - Terça-feira**
 #### **Manhã (9h-12h): Desenvolvimento Base**
 - **Sávio**: Framework matemático base + APIs de dados
 - **Rafael**: Pipeline de dados + primeiras correlações
@@ -69,7 +69,7 @@
 
 ## 🔥 **FASE 2: DESENVOLVIMENTO INTENSIVO (Dias 3-5)**
 
-### **Dia 3 - Domingo**
+### **Dia 3 - Quarta-feira**
 #### **Foco: Core do Framework + Visualizações Base**
 - **Sávio**: 
   - Algoritmos de correlação fitoplâncton→tubarões
@@ -89,7 +89,7 @@
 - **Gustavo**: 
   - Apoio onde houver maior necessidade
 
-### **Dia 4 - Segunda-feira**
+### **Dia 4 - Quinta-feira**
 #### **Foco: Modelos Avançados + Interface**
 - **Sávio**: 
   - Integração de todos os componentes
@@ -110,7 +110,7 @@
   - Testing e validação
   - Resolução de bugs
 
-### **Dia 5 - Terça-feira**
+### **Dia 5 - Sexta-feira**
 #### **Foco: Refinamento + Preparação para Apresentação**
 - **Manhã**: Finalização de funcionalidades core
 - **Tarde**: Integração final + primeiros ensaios
@@ -119,7 +119,7 @@
 
 ## 🎯 **FASE 3: FINALIZAÇÃO E APRESENTAÇÃO (Dias 6-7)**
 
-### **Dia 6 - Quarta-feira**
+### **Dia 6 - Sábado**
 #### **Foco: Polimento + Preparação Final**
 - **Manhã (9h-12h)**: 
   - **Todos**: Últimos ajustes técnicos
@@ -130,7 +130,7 @@
   - **15h-17h**: Ajustes baseados no ensaio
   - **17h-18h**: Preparação de materiais de backup
 
-### **Dia 7 - Quinta-feira**
+### **Dia 7 - Domingo**
 #### **Foco: Apresentação e Entrega**
 - **Manhã**: Últimos preparativos + submissão oficial
 - **Tarde**: Apresentação para os juízes
@@ -139,49 +139,49 @@
 
 ## 📊 **Marcos e Entregas por Dia**
 
-### **End of Day 1**
+### **End of Day 1 (Segunda)**
 - [ ] Ambiente configurado para todos
 - [ ] Dados NASA baixados e analisados inicialmente
 - [ ] Arquitetura do sistema definida
 - [ ] Identidade visual inicial
 - [ ] Cronograma detalhado aprovado
 
-### **End of Day 2**
+### **End of Day 2 (Terça)**
 - [ ] Framework matemático base funcionando
 - [ ] Pipeline de dados operacional
 - [ ] Primeiros dashboards funcionais
 - [ ] Mapas base implementados
 - [ ] Narrativa inicial estruturada
 
-### **End of Day 3**
+### **End of Day 3 (Quarta)**
 - [ ] Correlações fitoplâncton-tubarões implementadas
 - [ ] Modelos preditivos base funcionando
 - [ ] Dashboard principal operacional
 - [ ] Visualizações de dados NASA
 - [ ] Storyboard da apresentação
 
-### **End of Day 4**
+### **End of Day 4 (Quinta)**
 - [ ] Sistema integrado funcionando
 - [ ] Modelos ML validados
 - [ ] Especificação da tag completa
 - [ ] Visualizações para apresentação
 - [ ] Material de comunicação inicial
 
-### **End of Day 5**
+### **End of Day 5 (Sexta)**
 - [ ] Framework completo e testado
 - [ ] Todas as visualizações finalizadas
 - [ ] Documentação técnica completa
 - [ ] Apresentação estruturada
 - [ ] Material de apoio pronto
 
-### **End of Day 6**
+### **End of Day 6 (Sábado)**
 - [ ] Sistema polido e otimizado
 - [ ] Apresentação ensaiada e refinada
 - [ ] Todos os materiais organizados
 - [ ] Backups e contingências preparadas
 - [ ] Equipe preparada para pitch
 
-### **Day 7**
+### **Day 7 (Domingo)**
 - [ ] Submissão oficial realizada
 - [ ] Apresentação executada com sucesso
 - [ ] Q&A respondido adequadamente
