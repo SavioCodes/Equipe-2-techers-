@@ -229,25 +229,6 @@
 
 ---
 
-## 📞 **Rituais de Comunicação**
-
-### **Daily Check-ins (15 min/dia)**
-- **Horário**: 9h00 e 17h00
-- **Formato**: O que fiz / O que vou fazer / Bloqueios
-- **Tool**: WhatsApp
-
-### **Mid-day Reviews (30 min)**
-- **Horário**: 14h00
-- **Formato**: Progresso vs meta / Ajustes necessários
-- **Participantes**: Todos
-
-### **End-of-day Reviews (45 min)**
-- **Horário**: 18h00
-- **Formato**: Demo do dia / Feedback / Plano do próximo dia
-- **Entrega**: Cada um mostra o que fez
-
----
-
 ## 🏆 **Critérios de Sucesso**
 
 ### **Técnicos**
